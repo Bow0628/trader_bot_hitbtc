@@ -1,0 +1,8 @@
+{
+    "min_trading_balance" : 50,
+    "max_usd_to_spend_each_buy" : 30,
+    "trading_fee" : 0.002,
+    "min_profit" : 0.4,
+    "drop_ratio" : 0.001,
+    "buy_lower_ratio" : 0.00025
+}
